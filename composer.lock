@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "fe9397f15c3cc01de05cf65009e72501",
+    "content-hash": "6368b6485353f4f2ca6709a056841480",
+    "packages": [
+        {
+            "name": "datado/data",
+            "version": "1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DataDo/data.git",
+                "reference": "c3fbc3c5e5c4959192059a1870cfbe00835d54a8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DataDo/data/zipball/c3fbc3c5e5c4959192059a1870cfbe00835d54a8",
+                "reference": "c3fbc3c5e5c4959192059a1870cfbe00835d54a8",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "DataDo\\Data\\": "src/main/php/DataDo/Data"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Thomas Biesaart",
+                    "email": "thomas.biesaart@outlook.com"
+                }
+            ],
+            "description": "PHP to SQL connection dsl",
+            "time": "2015-11-07 13:35:01"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
