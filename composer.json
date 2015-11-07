@@ -1,5 +1,7 @@
 {
-    "require": {
-        "datado/data": "~1"
-    }
+  "name": "datado/file-example",
+  "license": "MIT",
+  "require": {
+    "datado/data": "~1"
+  }
 }
